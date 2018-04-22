@@ -1,4 +1,4 @@
-var playlist = {2Pac:"All eyez on me"};
+var playlist = {TwoPac:"All eyez on me"};
 
 
 function updatePlaylist(playlist,artistName,songTitle)
